@@ -79,7 +79,7 @@ p {
     margin-left: 20px;
 }
 
-/* right-floating information panel */
+/* right-floating benefits panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +125,7 @@ p {
     font-size: 36px;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
